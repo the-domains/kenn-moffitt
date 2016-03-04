@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-04T18:16:41.331Z'
+datePublished: '2016-03-04T18:40:48.466Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Six Step Process for Handling social Media Complaints
-dateModified: '2016-03-04T18:08:56.917Z'
+dateModified: '2016-03-04T18:16:47.662Z'
 sourcePath: _posts/2016-03-04-six-step-process-for-handling-social-media-complaints.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
