@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kenn Moffitt]]></title>
+        <description><![CDATA[Kenn Moffitt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 15:32:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined0d0c7188-0ac9-4b51-a8fa-77f1eaf9c4e2/index.html</link>
+            <guid isPermaLink="false">0d0c7188-0ac9-4b51-a8fa-77f1eaf9c4e2</guid>
+            <pubDate>Fri, 04 Mar 2016 15:32:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
