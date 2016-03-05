@@ -1,19 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:c7a16c31-be1c-4be0-a28e-458450d4d520'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-05T00:45:08.251Z'
+dateModified: '2016-03-05T00:45:05.992Z'
 author: []
-datePublished: '2016-03-04T18:40:48.466Z'
+title: Six Step Process for Handling social Media Complaints
+sourcePath: _posts/2016-03-04-six-step-process-for-handling-social-media-complaints.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
-title: Six Step Process for Handling social Media Complaints
-dateModified: '2016-03-04T18:16:47.662Z'
-sourcePath: _posts/2016-03-04-six-step-process-for-handling-social-media-complaints.md
-published: true
-starred: false
-inFeed: true
-hasPage: true
-inNav: false
-url: six-step-process-for-handling-social-media-complaints/index.html
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
