@@ -1,28 +1,40 @@
-name: Kenn Moffitt
-favicon: null
-layout_spectrum: 0.45099752489477396
-typography_spectrum: 0.9936764328740537
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.450997524894774
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+  saturation: 0.4102925
   brandStrength: 0.4138406780548394
   lightness: 0.8125
-  saturation: 0.4102924626786262
-  rhythmicContrast: 0.08789288974367082
-purpose: []
+  brandColors:
+    - '#010103'
+    - '#FDFCFB'
+    - '#5C879A'
+    - '#5C5C4B'
+    - '#BDA388'
+  rhythmicContrast: 0.5151771
+typography_spectrum: 0.9936764328740537
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Kenn Moffitt
