@@ -1,4 +1,5 @@
-layout_spectrum: 0.450997524894774
+favicon: null
+name: Kenn Moffitt
 opengraph:
   image: null
   type: null
@@ -28,13 +29,12 @@ color:
     - '#BDA388'
   rhythmicContrast: 0.5151771
 typography_spectrum: 0.9936764328740537
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.8853288
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Kenn Moffitt
+cta:
+  bucket: null
+  version: null
+  domain: null
