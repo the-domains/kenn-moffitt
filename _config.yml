@@ -1,9 +1,7 @@
-favicon: null
 name: Kenn Moffitt
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.8853288
+typography_spectrum: 0.9936764328740537
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Pixels to the People
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4102925
-  brandStrength: 0.4138406780548394
-  lightness: 0.8125
   brandColors:
     - '#010103'
     - '#FDFCFB'
     - '#5C879A'
     - '#5C5C4B'
     - '#BDA388'
+  brandStrength: 0.4138406780548394
+  lightness: 0.8125
+  saturation: 0.4102925
   rhythmicContrast: 0.5151771
-typography_spectrum: 0.9936764328740537
-layout_spectrum: 0.8853288
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
