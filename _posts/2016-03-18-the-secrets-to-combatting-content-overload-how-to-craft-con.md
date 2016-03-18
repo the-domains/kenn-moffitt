@@ -2,9 +2,9 @@
 author: []
 related: []
 publisher:
+  favicon: 'https://bufferblog-wpengine.netdna-ssl.com/wp-content/themes/buffer-base/favicon.png'
   url: 'https://blog.bufferapp.com'
   name: Social
-  favicon: 'https://bufferblog-wpengine.netdna-ssl.com/wp-content/themes/buffer-base/favicon.png'
   domain: blog.bufferapp.com
 keywords:
   - content
@@ -22,10 +22,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://blog.bufferapp.com/content-overload'
 title: 'The Secrets To Combatting Content Overload: How To Craft Content People Love - The Buffer Blog'
-datePublished: '2016-03-18T23:18:27.017Z'
-dateModified: '2016-03-18T23:15:39.660Z'
+datePublished: '2016-03-18T23:19:26.486Z'
+dateModified: '2016-03-18T23:19:03.150Z'
 sourcePath: _posts/2016-03-18-the-secrets-to-combatting-content-overload-how-to-craft-con.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
