@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Kenn Moffitt
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.37352
-layout_spectrum: 0.455312
+layout_spectrum: 0.3978697
