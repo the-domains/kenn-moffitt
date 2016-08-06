@@ -4,7 +4,7 @@
         <description><![CDATA[Pixels to the People]]></description>
         <link>https://thegrid.ai/kenn-moffitt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 16:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 16:55:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kenn-moffitt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Google RankBrain and How Does It Affect Your Website's SERP Rankings?]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.semrush.com/blog/what-is-google-rankbrain-and-how-does-it-affect-your-website-s-serp-rankings/</link>
             <guid isPermaLink="false">279b08a5-6c52-4e2a-a727-139df0ebe98f</guid>
             <pubDate>Sat, 06 Aug 2016 16:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Step Process for Handling social Media Complaints]]></title>
+            <description><![CDATA[<article><h1>Six Step Process for Handling social Media Complaints</h1><p>Dealing with complainers and haters in social media can, of course, be tricky. What you need is a framework for how to do it right. This is that framework: F-E-A-R-S: You may notice that I didn't include "be fast" as a specific component. This is because it is axiomatic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a033ecdc9096e2f7d0d3ae3f6e1cdfce7f336ea.jpg"></article>]]></description>
+            <link>urn:uuid:c7a16c31-be1c-4be0-a28e-458450d4d520</link>
+            <guid isPermaLink="false">310f1b20-01ba-4f5e-9099-bfe8b948a293</guid>
+            <pubDate>Sat, 05 Mar 2016 00:45:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
