@@ -1,5 +1,8 @@
+name: Kenn Moffitt
+favicon: null
+layout_spectrum: 0.2900506
+typography_spectrum: 0.37352
 title: Pixels to the People
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0.25
-  lightness: 0.9486216
   brandColors:
     - '#131313'
     - '#FAFAFA'
     - '#4E4247'
     - '#B64067'
     - '#DC8798'
+  brandStrength: 0.5
+  lightness: 0.9486216
+  saturation: 0.375
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Kenn Moffitt
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.37352
-layout_spectrum: 0.2900506
+purpose: []
