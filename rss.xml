@@ -4,7 +4,7 @@
         <description><![CDATA[Pixels to the People]]></description>
         <link>https://thegrid.ai/kenn-moffitt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 17:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 16:54:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kenn-moffitt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Secrets To Combatting Content Overload: How To Craft Content People Love - The Buffer Blog]]></title>
@@ -14,25 +14,18 @@
             <pubDate>Fri, 18 Mar 2016 23:19:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What is Google RankBrain and How Does It Affect Your Website's SERP Rankings?]]></title>
+            <description><![CDATA[<article><h1>What is Google RankBrain and How Does It Affect Your Website's SERP Rankings?</h1><p>If you're involved with SEO, you know that Google (and the other search engines) uses a complex algorithm to determine how a page ranks in the search engine results pages (SERPs). No one but Google knows exactly what's in the algorithm's "secret sauce" (it's rumored that there are more than 200 factors it considers), but SEO experts have inklings about what makes a page rank higher than others.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e0632d1fd4a8c7e0a9c0a952f6f47e07/croprotate.jpg?cropheight=860&cropwidth=1680&degrees=0&input=https%3A%2F%2Fd30cz2g5jd7t8z.cloudfront.net%2Fuploads%2Fmedia%2Fe4%2Fa2%2Fe4a20641012919f62807d2ae747a1292.jpg&x=0&y=51"></article>]]></description>
+            <link>https://www.semrush.com/blog/what-is-google-rankbrain-and-how-does-it-affect-your-website-s-serp-rankings/</link>
+            <guid isPermaLink="false">279b08a5-6c52-4e2a-a727-139df0ebe98f</guid>
+            <pubDate>Sat, 06 Aug 2016 16:53:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Full Facebook Insights Walk Through]]></title>
-            <description><![CDATA[<h1>Full Facebook Insights Walk Through</h1>]]></description>
+            <description><![CDATA[<article><h1>Full Facebook Insights Walk Through</h1><p>A full walk through on how to effectively use Facebook Analytics and Insights: http://ow.ly/ZGvuC pic.twitter.com/cxzfKVBOsJ</p></article>]]></description>
             <link>https://thegrid.ai/kenn-moffitt/full-facebook-insights-walk-through/index.html</link>
             <guid isPermaLink="false">51c28a9c-0536-4348-bb80-2b6973b997e6</guid>
             <pubDate>Sat, 19 Mar 2016 17:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Influencer Marketing Play Book]]></title>
-            <description><![CDATA[<article><h1>Influencer Marketing Play Book</h1><p>Digital Marketing by Kristen Matthews Kristen Matthews is the marketing and community manager at GroupHigh, a blogger identification and analysis platform. She loves the collaborative elements of digital and social marketing, so don't hesitate to reach out to her at any time. Influence marketing keeps evolving at a rapid pace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a46e89153557a18d5eee31649a062a1a0234aca9.jpg"></article>]]></description>
-            <link>http://www.convinceandconvert.com/digital-marketing/influence-marketing-workbook/</link>
-            <guid isPermaLink="false">0d632938-9d4a-4b53-b1f2-1c6bf9e87ff7</guid>
-            <pubDate>Fri, 04 Mar 2016 18:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Optimize the Format of Your Content to Increase Shares]]></title>
-            <description><![CDATA[<article><h1>Optimize the Format of Your Content to Increase Shares</h1><p>I try to read as much as I can, and every morning I put aside 30 minutes to check out the latest posts from my favorite blogs and writers. In 30 minutes, you can only take</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cacd8ce2c5a3b8cc7778dbf9cacd53ddcc33fa47.jpg"></article>]]></description>
-            <link>http://app.mhb.io/e/dxbh/1</link>
-            <guid isPermaLink="false">d2e98f0d-d9bd-450d-9a64-5c456fc07066</guid>
-            <pubDate>Fri, 04 Mar 2016 18:17:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six Step Process for Handling social Media Complaints]]></title>
@@ -40,6 +33,13 @@
             <link>urn:uuid:c7a16c31-be1c-4be0-a28e-458450d4d520</link>
             <guid isPermaLink="false">310f1b20-01ba-4f5e-9099-bfe8b948a293</guid>
             <pubDate>Sat, 05 Mar 2016 00:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optimize the Format of Your Content to Increase Shares]]></title>
+            <description><![CDATA[<article><h1>Optimize the Format of Your Content to Increase Shares</h1><p>I try to read as much as I can, and every morning I put aside 30 minutes to check out the latest posts from my favorite blogs and writers. In 30 minutes, you can only take</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cacd8ce2c5a3b8cc7778dbf9cacd53ddcc33fa47.jpg"></article>]]></description>
+            <link>http://app.mhb.io/e/dxbh/1</link>
+            <guid isPermaLink="false">d2e98f0d-d9bd-450d-9a64-5c456fc07066</guid>
+            <pubDate>Fri, 04 Mar 2016 18:17:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
