@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Tools and apps
+    id: 1764e0b6-9d9e-4f8b-8ce3-e9fbc6ce82b0
+    type: content
 favicon: null
 collections:
   - index:
