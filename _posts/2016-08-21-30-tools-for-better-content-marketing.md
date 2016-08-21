@@ -24,16 +24,14 @@ description: >-
   Content Marketing World presenters are here to help.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://contentmarketinginstitute.com/2016/08/content-marketing-toolbox/'
 title: 30+ Tools for Better Content Marketing
-datePublished: '2016-08-21T19:23:54.260Z'
-dateModified: '2016-08-21T19:23:50.109Z'
+datePublished: '2016-08-21T19:27:27.976Z'
+dateModified: '2016-08-21T19:27:27.600Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-30-tools-for-better-content-marketing.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: 30-tools-for-better-content-marketing/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
